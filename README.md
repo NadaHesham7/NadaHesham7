@@ -1,16 +1,22 @@
-### Hi there 👋
+### Hello there 👋
+My name is Nada, I studied Interior Design in college, I graduated in 2020. <br/>
+Then in 2021 I decided to finally change majors and become a programmer. <br/>
+Now I am a React Js Developer with a good background in design. <br/>
 
-<!--
-**NadaHesham7/NadaHesham7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My most recent project is :heavy_dollar_sign: : 
+[Currency Website](https://github.com/NadaHesham7/A-Full-Website-About-Currencies-ReactJs-.git)
+<br/>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### My Interests Are: 
+- Problem Solving.
+- Coding
+- UI/UX
+- Human Behaviour and Psychology
+- All Kinds of Art
+- Videos Games 
+
+
+### You Can Reach Me On 📫 : 
+- [LinkedIn](https://www.linkedin.com/in/nada-hesham77777/)
+- [Email](nadda.als@gmail.com)
