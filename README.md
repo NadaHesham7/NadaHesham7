@@ -1,7 +1,7 @@
 ### Hello there 👋
 My name is Nada, I studied Interior Design in college, I graduated in 2020. <br/>
 Then in 2021 I decided to finally change majors and become a programmer. <br/>
-Now I am a React Js Developer with a good background in design. <br/>
+Now I am a Front-End Developer (using React Js) with a good background in design. <br/>
 
 My most recent project is :heavy_dollar_sign: : 
 [Currency Website](https://github.com/NadaHesham7/A-Full-Website-About-Currencies-ReactJs-.git)
