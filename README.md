@@ -12,7 +12,7 @@ My most recent project is :heavy_dollar_sign: :
 - Problem Solving.
 - Coding
 - UI/UX
-- Human Behaviour and Psychology
+- Human Behaviour, Psychology and Philosophy
 - All Kinds of Art
 - Videos Games 
 
